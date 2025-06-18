@@ -4,18 +4,18 @@ To-Do List sederhana berbasis HTML, CSS, dan JavaScript vanilla. Aplikasi ini me
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
-- ✅ Tambah tugas baru dengan tanggal
-- 📌 Pisahkan tugas `Belum Selesai` dan `Sudah Selesai`
-- 🔁 Pindah tugas ke selesai dan sebaliknya
-- ❌ Hapus tugas dari daftar
-- 💾 Simpan otomatis ke **LocalStorage**
-- 🌐 Tidak butuh backend atau database eksternal
+- Tambah tugas baru dengan tanggal
+- Pisahkan tugas `Belum Selesai` dan `Sudah Selesai`
+- Pindah tugas ke selesai dan sebaliknya
+- Hapus tugas dari daftar
+- Simpan otomatis ke **LocalStorage**
+- Tidak butuh backend atau database eksternal
 
 ---
 
-## 💻 Tampilan Aplikasi
+## Tampilan Aplikasi
 
 ![Preview UI](./assets/todoImage.png)
 
@@ -23,7 +23,7 @@ To-Do List sederhana berbasis HTML, CSS, dan JavaScript vanilla. Aplikasi ini me
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - HTML5
 - CSS3
